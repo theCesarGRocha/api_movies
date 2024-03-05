@@ -1,0 +1,12 @@
+INSERT INTO MOVIE VALUES(1993, 0, 1, 'Directed by George P. Cosmatos', 'Western', 'Tombstone');
+INSERT INTO MOVIE VALUES(2007, 0, 2, 'Directed by James Mangold',	'Western', '3:10 to Yuma');
+INSERT INTO MOVIE VALUES(1960, 0, 3, 'Directed by John Sturges.',	'Western', 'The Magnificent Seven');
+INSERT INTO MOVIE VALUES(2009, 0, 4, 'Directed by Todd Phillips',	'Comedy', 'The Hangover');
+INSERT INTO MOVIE VALUES(2007, 0, 5, 'Directed by Greg Mottola',	'Comedy', 'Superbad');
+INSERT INTO MOVIE VALUES(2011, 0, 6, 'Directed by Paul Feig',	'Comedy', 'Bridesmaids');
+INSERT INTO MOVIE VALUES(1980, 0, 7, 'Directed by Stanley Kubrick',	'Horror', 'The Shining');
+INSERT INTO MOVIE VALUES(2017, 0, 8, 'Directed by Jordan Peele',	'Horror', 'Get Out');
+INSERT INTO MOVIE VALUES(1960, 0, 9, 'Directed by Alfred Hitchcock', 'Horror', 'Psycho');
+INSERT INTO MOVIE VALUES(1973, 0, 10, 'Directed by William Friedkin', 'Horror', 'The Exorcist');
+INSERT INTO MOVIE VALUES(1973, 0, 11, 'Directed by William Friedkin fake', 'Horror', 'The Exorcist-fake');
+INSERT INTO MOVIE VALUES(1993, 0, 12, 'Directed by George P. Cosmatos', 'Western', 'Tombstone-fake');
